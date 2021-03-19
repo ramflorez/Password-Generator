@@ -8,7 +8,7 @@ After this, I entered conditonals for every set of characters required in the pa
 I also added functions to generate password with local variables for possible, guaranteed and possible character adding a conditional to add the different set of characters to the possible characters upon user input.
 A for loop ensure the inlcusion of all types of characters throghout the length of the password.
 results were transformed into string.
-A addEventListener generates the button.
+An addEventListener generates the button.
 In the CSS file, I added atributes like font family, color and size, backgrund color, borders, padding, etc to all classes (divs). 
 This is the url to the git hub pages.
 https://ramflorez.github.io/Password-Generator/
