@@ -13,3 +13,5 @@ In the CSS file, I added atributes like font family, color and size, backgrund c
 This is the url to the git hub pages.
 https://ramflorez.github.io/Password-Generator/
 
+This is a screenshot of the deployed page.
+/Screen Shot 2021-03-19 at 6.16.32 PM.png
