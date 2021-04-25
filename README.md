@@ -1,5 +1,9 @@
 # Password-Generator
-CSS  and JS files were linked to the HTML root file.
+
+HTML,CSS,JS.
+
+ramflorez@yahoo.com
+
 The Java Script file was used to create a password generator.
 First, I created arrays with the different characters required by the password.
 Then, I created functions for the lenght of the password >8 characters, but <129 characters.
