@@ -15,8 +15,11 @@ A for loop ensure the inclusion of all types of characters throughout the length
 Results were transformed into string.
 An addEventListener generates the button.
 In the CSS file, I added atributes like font family, color and size, backgrund color, borders, padding, etc to all classes (divs). 
+
 This is the url to the git hub pages.
+
 https://ramflorez.github.io/Password-Generator/
 
 This is a screenshot of the deployed page.
+
 https://github.com/ramflorez/Password-Generator/issues/1#issue-836493144
